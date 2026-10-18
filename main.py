@@ -6,7 +6,7 @@ app = FastAPI()
 
 RESULT = {
     "A": {
-        "text": "Report job-c6dddbf: café\nReady ✔",
+        "text": "Report job-c6dddbf: café\nReady ✓",
         "complete": True,
         "error": None
     },
